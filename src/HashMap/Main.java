@@ -9,8 +9,9 @@ public class Main {
         CapitalCities.put("England", "London");
         CapitalCities.put("Germany", "Berlin");
         CapitalCities.put("Norway", "Oslo");
-        CapitalCities.put("USA", "Wasington DC");
+        CapitalCities.put("USA", "Wasington ");
         System.out.println(CapitalCities);
+
 
     }
 }
